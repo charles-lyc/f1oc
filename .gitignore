@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# kicad backup
+hardware/f1oc/f1oc-backups/
